@@ -8,6 +8,5 @@ This project uses **machine learning** to predict breast cancer based on patient
 ✅ Performance evaluation with **MAE, MSE, R² Score**  
 
 ## 🔹 How to Use  
-1️⃣ Clone the repo  
-2️⃣ Install dependencies: `pip install -r requirements.txt`  
+1️⃣ Clone the repo
 3️⃣ Run the notebook: `jupyter notebook Canser_Prediction.ipynb`  
